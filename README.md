@@ -19,7 +19,3 @@ running using [Ionic](http://ionicframework.com)
 ```sh
 ionic serve
 ```
-
-
-
-
